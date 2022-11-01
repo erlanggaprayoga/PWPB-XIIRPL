@@ -1,0 +1,19 @@
+body {
+    background-color: coral;
+}
+.back-img {
+    background-image: url(bg2.jpg);
+    width: 500px;
+    height: 500px;
+    color: pink;
+}
+
+.posisi {
+    background-image: url(bg2.jpg);
+    width: 500px;
+    height: 500px;
+    color: pink;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
